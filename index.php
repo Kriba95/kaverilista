@@ -8,7 +8,7 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Yhteys epäonnistui, tarkista: \n" . $conn->connect_error);
 } ?>
- 
+  
 
 <!DOCTYPE html>
 <html>
