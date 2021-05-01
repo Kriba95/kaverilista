@@ -43,7 +43,8 @@ if ($con->connect_error) {
 else {
   echo "Kiitos! Juttusi on lisätty :D";
 }
-?></h1>
+$con->close(); ?>
+</h1>
         <hr>
       </div>
     </div>

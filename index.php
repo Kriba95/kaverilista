@@ -2,11 +2,11 @@
 
 <?php
 require('connection.php');
-$conn = new mysqli($servername, $username, $password, $dbname);
+$con = new mysqli($servername, $username, $password, $dbname);
 
 // Jos yheteys epäonnistuu printtaa \n Yhteyttä
-if ($conn->connect_error) {
-    die("Yhteys epäonnistui, tarkista: \n" . $conn->connect_error);
+if ($con->connect_error) {
+    die("Yhteys epäonnistui, tarkista: \n" . $con->connect_error);
 } ?>
   
 
@@ -44,14 +44,14 @@ if ($conn->connect_error) {
         <li>Kristian Töllikkö</li>
       <!--  SELECT * FROM valitsee taulun mitä näyttää-->
               <?php $sql = "SELECT * FROM user";
-                $result = $conn->query($sql);
+                $result = $con->query($sql);
 
                 if ($result->num_rows > 0) {
                     while($row = $result->fetch_assoc()) {
-                        echo "<li>". $row["nimi"]. "". "" . "</li>";
+                        echo "<li>". $row["nimi"]."</li>";
                     } 
                 }  // $row["nimi"] on MySql Taulu
-                $conn->close(); ?>
+                $con->close(); ?>
       </ul>
     </div>
   </div>
