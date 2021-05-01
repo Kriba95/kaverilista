@@ -17,8 +17,9 @@ Muista seurata työaikaasi tehtäväkohtaisesti.
 Laadi PowerPoint esitys, jossa esittelet projektin. Kerro esityksessä omilla sivuillaan:
 
 mitkä olivat tavoitteesi, miten saavutit ne, mitä ongelmia ilmeni ja mitä uutta opit projektia tehdessäsi. 6. Huolehdi siitä, että projektiin liittyvät dokumentit (suunnitelma, työajanseuranta, PowerPoint-esitys) löytyvät OneDrivestä, projekti löytyy omilta www-sivuiltasi.
+______________________________________________________________________________________________________________________________________________________________________
 
-#kesto n. 4h
+#kesto n. 8h
 
 Kaverilista versio 1
 
@@ -37,7 +38,7 @@ MySql tietokantaa on rajttu siten että käyttäjällä on mahdollisuus lisätä
 Jos php hyökkäyksiä esiintyy, rajaan merkistöt A-Z-Ö ja käyttäisin Robot captcha:aa, toistaiseksi ei ole tarvetta koska sivut ovat alipalvelimeen asennettu ja se käyttää omaa MySql tietokantaa.
 
 Mahdolliseti jätän turva-systeemit tälläiseksi, jotta näkisin mitä hyökkäys keinoja mahdollisesti hakkeri käyttää (Jos nään). En missään nimessä käyttäisi tätä lista-systeemiä asiakkaiden/käyttäjän web-palvelimella.
-
+______________________________________________________________________________________________________________________________________________________________________
 #kesto 8-16h
 
 Kaverilista versio 2
