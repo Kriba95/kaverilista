@@ -42,9 +42,13 @@ ________________________________________________________________________________
 Kaverilista versio 1 
 
 Kaverilista joka tallentaa nimet MySql tietokantaan. 
+
 JavaScripti on näennäis skripti joka ei fyysisesti tallenna mitään tietokantaan vaan pelkästään väliaikaisesti käyttäjän selaimeen.
+
 PHP (uusi versio 7.*)koodi on se joka tallentaa tiedostot MySql tietokantaan.
+
 Tyylittelyyn on käytetty nopeasti väännettyä css/html koodia, joka ei ole responsiivinen mobiililaitteella mutta "pitäisi" toimia jokaisessa selaimessa mukaan lukie Internet Explorer,.
+
 Phpmyadmin tunnukset ovat piilotettu mutta vastaavanlainen tiedosto löytyy connection-funky.php tiedostosta.
 
 MySql tietokantaa on rajttu siten että käyttäjällä on mahdollisuus lisätä max 10-20 merkkiä.
