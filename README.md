@@ -37,7 +37,8 @@ mitä uutta opit projektia tehdessäsi.
 ___________________________________________________________________________________________________________________
 
 
-Kaverilista versio 1
+#kesto n. 4h
+Kaverilista versio 1 
 
 Kaverilista joka tallentaa nimet MySql tietokantaan. 
 JavaScripti on näennäis skripti joka ei fyysisesti tallenna mitään tietokantaan vaan pelkästään väliaikaisesti käyttäjän selaimeen.
@@ -53,6 +54,7 @@ toistaiseksi ei ole tarvetta koska sivut ovat alipalvelimeen asennettu ja se kä
 Mahdolliseti jätän turva-systeemit tälläiseksi, jotta näkisin mitä hyökkäys keinoja mahdollisesti hakkeri käyttää (Jos nään).
 En missään nimessä käyttäisi tätä lista-systeemiä asiakkaiden/käyttäjän web-palvelimella.
 ___________________________________________________________________________________________________________________
+#kesto 8-16h
 Kaverilista versio 2 
 
 Se on tulossa.
