@@ -38,6 +38,7 @@ ________________________________________________________________________________
 
 
 #kesto n. 4h
+
 Kaverilista versio 1 
 
 Kaverilista joka tallentaa nimet MySql tietokantaan. 
@@ -55,6 +56,7 @@ Mahdolliseti jätän turva-systeemit tälläiseksi, jotta näkisin mitä hyökk�
 En missään nimessä käyttäisi tätä lista-systeemiä asiakkaiden/käyttäjän web-palvelimella.
 ___________________________________________________________________________________________________________________
 #kesto 8-16h
+
 Kaverilista versio 2 
 
 Se on tulossa.
